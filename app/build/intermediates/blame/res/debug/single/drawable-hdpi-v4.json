@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\MalTicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bola.jpg",
+        "source": "C:\\MalTicTacToe\\app\\src\\main\\res\\drawable-hdpi\\bola.jpg"
+    },
+    {
+        "merged": "C:\\MalTicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cruz.jpg",
+        "source": "C:\\MalTicTacToe\\app\\src\\main\\res\\drawable-hdpi\\cruz.jpg"
+    },
+    {
+        "merged": "D:\\Downloads\\MalTicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bola.jpg",
+        "source": "D:\\Downloads\\MalTicTacToe\\app\\src\\main\\res\\drawable-hdpi\\bola.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vazio.jpg",
+        "source": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\src\\main\\res\\drawable-hdpi\\vazio.jpg"
+    },
+    {
+        "merged": "D:\\Downloads\\MalTicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cruz.jpg",
+        "source": "D:\\Downloads\\MalTicTacToe\\app\\src\\main\\res\\drawable-hdpi\\cruz.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bola.jpg",
+        "source": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\src\\main\\res\\drawable-hdpi\\bola.jpg"
+    },
+    {
+        "merged": "C:\\MalTicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vazio.jpg",
+        "source": "C:\\MalTicTacToe\\app\\src\\main\\res\\drawable-hdpi\\vazio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cruz.jpg",
+        "source": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\src\\main\\res\\drawable-hdpi\\cruz.jpg"
+    },
+    {
+        "merged": "D:\\Downloads\\MalTicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vazio.jpg",
+        "source": "D:\\Downloads\\MalTicTacToe\\app\\src\\main\\res\\drawable-hdpi\\vazio.jpg"
+    }
+]

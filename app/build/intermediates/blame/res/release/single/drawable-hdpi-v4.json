@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Downloads\\MalTicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bola.jpg",
+        "source": "D:\\Downloads\\MalTicTacToe\\app\\src\\main\\res\\drawable-hdpi\\bola.jpg"
+    },
+    {
+        "merged": "D:\\Downloads\\MalTicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\vazio.jpg",
+        "source": "D:\\Downloads\\MalTicTacToe\\app\\src\\main\\res\\drawable-hdpi\\vazio.jpg"
+    },
+    {
+        "merged": "D:\\Downloads\\MalTicTacToe\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\cruz.jpg",
+        "source": "D:\\Downloads\\MalTicTacToe\\app\\src\\main\\res\\drawable-hdpi\\cruz.jpg"
+    }
+]

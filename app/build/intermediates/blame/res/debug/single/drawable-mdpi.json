@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Downloads\\MalTicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\Downloads\\MalTicTacToe\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\MalTicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\MalTicTacToe\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

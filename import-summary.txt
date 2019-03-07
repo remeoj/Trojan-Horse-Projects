@@ -1,0 +1,91 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* .idea\
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\libraries\
+* .idea\libraries\android_support_v4.xml
+* .idea\libraries\dexedLibs.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\workspace.xml
+* MalTicTacToe.iml
+* hs_err_pid11500.log
+* hs_err_pid2664.log
+* hs_err_pid8200.log
+* ic_launcher-web.png
+* out\
+* out\production\
+* out\production\MalTicTacToe\
+* out\production\MalTicTacToe\MalTicTacToe.apk
+* out\production\MalTicTacToe\MalTicTacToe.unaligned.apk
+* out\production\MalTicTacToe\android\
+* out\production\MalTicTacToe\android\trojangame\
+* out\production\MalTicTacToe\android\trojangame\BuildConfig.class
+* out\production\MalTicTacToe\android\trojangame\R$attr.class
+* out\production\MalTicTacToe\android\trojangame\R$dimen.class
+* out\production\MalTicTacToe\android\trojangame\R$drawable.class
+* out\production\MalTicTacToe\android\trojangame\R$id.class
+* out\production\MalTicTacToe\android\trojangame\R$layout.class
+* out\production\MalTicTacToe\android\trojangame\R$menu.class
+* out\production\MalTicTacToe\android\trojangame\R$string.class
+* out\production\MalTicTacToe\android\trojangame\R$style.class
+* out\production\MalTicTacToe\android\trojangame\R.class
+* out\production\MalTicTacToe\edu\
+* out\production\MalTicTacToe\edu\mobilesecuritylabware\
+* out\production\MalTicTacToe\edu\mobilesecuritylabware\malware\
+* out\production\MalTicTacToe\edu\mobilesecuritylabware\malware\maltictactoe\
+* out\production\MalTicTacToe\edu\mobilesecuritylabware\malware\maltictactoe\tictactoe\
+* out\production\MalTicTacToe\edu\mobilesecuritylabware\malware\maltictactoe\tictactoe\Ball.class
+* out\production\MalTicTacToe\edu\mobilesecuritylabware\malware\maltictactoe\tictactoe\Cell.class
+* out\production\MalTicTacToe\edu\mobilesecuritylabware\malware\maltictactoe\tictactoe\Cross.class
+* out\production\MalTicTacToe\edu\mobilesecuritylabware\malware\maltictactoe\tictactoe\Empty.class
+* out\production\MalTicTacToe\edu\mobilesecuritylabware\malware\maltictactoe\tictactoe\Game$1.class
+* out\production\MalTicTacToe\edu\mobilesecuritylabware\malware\maltictactoe\tictactoe\Game.class
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

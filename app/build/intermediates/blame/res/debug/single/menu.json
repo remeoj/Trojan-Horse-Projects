@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Downloads\\MalTicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Downloads\\MalTicTacToe\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\MalTicTacToe\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\MalTicTacToe\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cruz.jpg.flat",
+        "source": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\src\\main\\res\\drawable-hdpi\\cruz.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vazio.jpg.flat",
+        "source": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\src\\main\\res\\drawable-hdpi\\vazio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bola.jpg.flat",
+        "source": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\src\\main\\res\\drawable-hdpi\\bola.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rhalo\\AndroidStudioProjects\\MalTicTacToe1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
